@@ -190,6 +190,6 @@ public class TrabalhoDiogo {
         return "fim do jogo";
     }
     public static String Welcome() { 
-        return "Bem vindo ao Jogo da forca!";
+        return "Bem vindo ao Jogo da forca";
     }
 }
