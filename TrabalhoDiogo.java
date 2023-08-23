@@ -186,7 +186,7 @@ public class TrabalhoDiogo {
     public static String Sair() { 
         PrintStream out = System.out;
         out.println("\033[H\033[2J");
-        out.println("Fim do jogo.");
+        out.println("Fim do jogo!");
         return "fim do jogo";
     }
     public static String Welcome() { 
